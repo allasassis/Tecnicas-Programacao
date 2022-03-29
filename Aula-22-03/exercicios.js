@@ -28,18 +28,19 @@ for (tabuada = 1; tabuada < 11; tabuada++) {
 
 // ---------------------------------------------------------------
 
-var tabuada;
-var numero = 1;
+var x;
 
-for (tabuada = 1; tabuada < 11; tabuada++) {
-    console.log(numero + " x " + tabuada + " = " + numero * tabuada);
+for (x = 1; x < 11; x++) {
+    for (var y = 0; y < 11; y++) {
+        console.log(x + " x " + y + " = " + x*y);   
+    }
+    
 }
 
 // ----------------------------------------------------------------
 
 var preco = 1500;
-var desconto = preco / 10;
-var precoDesconto = preco - desconto;
+var desconto = preco - (preco * (10 / 100));
 
-console.log("O preço atual do produto é: " + precoDesconto);
+console.log("O preço atual do produto é: " + desconto);
 
