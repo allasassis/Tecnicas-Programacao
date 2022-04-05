@@ -1,6 +1,7 @@
-CD > Abrir uma pasta
-- fechar uma ou várias pastas
+CD > Abrir uma pasta E para fechar uma ou várias pastas você pode usar CD. ou CD.. e para fechar TODAS as pastas você pode usar o CD\
 
 Mkdir > Criar uma nova pasta
 
 Dir > Listar todo o conteúdo de uma pasta
+
+Cls > Limpa a tela (não apaga nada, só limpa o visual)
