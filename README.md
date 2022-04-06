@@ -1,4 +1,4 @@
-# Tecnicas-Programacao
+# Técnicas de Programação
 Repositório para armazenar atividades/materiais da aula de Técnicas de Programação.
 # Nome: Allas Assis de Oliveira
 # RGM: 26084708
