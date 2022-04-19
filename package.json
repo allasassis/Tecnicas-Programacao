@@ -1,0 +1,25 @@
+{
+  "name": "tecnicas-programacao",
+  "version": "1.0.0",
+  "description": "Projeto aula",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allasassis/Tecnicas-Programacao.git"
+  },
+  "keywords": [
+    "aula",
+    "projeto",
+    "node",
+    "npm"
+  ],
+  "author": "Allas Assis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allasassis/Tecnicas-Programacao/issues"
+  },
+  "homepage": "https://github.com/allasassis/Tecnicas-Programacao#readme"
+}
